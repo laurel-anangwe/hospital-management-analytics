@@ -2,7 +2,7 @@
 
 **Author:** Laurel Anangwe  
 **Tool:** MySQL Workbench  
-**Data Source:** [Kaggle](https://www.kaggle.com)
+**Data Source:** [Kaggle](https://www.kaggle.com/datasets/jaderz/hospital-beds-management)
 
 ---
 
