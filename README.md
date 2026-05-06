@@ -1,4 +1,4 @@
-# 🏥 Hospital Data Analysis — SQL Portfolio Project
+# 🏥 Hospital Management Data Analysis — SQL Portfolio Project
 
 **Author:** Laurel Anangwe  
 **Tool:** MySQL Workbench  
